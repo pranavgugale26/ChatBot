@@ -32,7 +32,7 @@ You can modify the chatbot’s tone and behavior by editing the system message:
 {"role": "system", "content": "You are a helpful and witty chatbot."}  
 
 ## 📄 License
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use under the [MIT License](LICENSE).
 
 ## 🙌 Credits
 Built with 💙 using [Groq](https://groq.com/) + [LLaMA 3](https://www.llama.com/) Inspired by the simplicity of CLI + the power of large language models.
